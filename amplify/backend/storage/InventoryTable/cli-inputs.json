@@ -1,0 +1,10 @@
+{
+  "resourceName": "InventoryTable",
+  "tableName": "InventoryTable",
+  "partitionKey": {
+    "fieldName": "productId",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
